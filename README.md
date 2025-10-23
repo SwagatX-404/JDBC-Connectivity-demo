@@ -78,3 +78,17 @@ The project includes a .gitignore file to exclude:
 ```bash
 Save this as `README.md` in your project root directory. This provides clear documentation for anyone who wants to understand or run your JDBC connectivity project.
 ```
+
+# Screenshot Demo
+
+**cmd**
+<img width="1291" height="937" alt="Screenshot 2025-10-23 231308" src="https://github.com/user-attachments/assets/c82d2e2f-4000-4fba-b4c1-da6eb4a5ea25" />
+
+**MYSQL**
+<img width="945" height="1017" alt="Screenshot 2025-10-23 231246" src="https://github.com/user-attachments/assets/ee9c85b8-4aef-4bb5-8d17-5612ad776c57" />
+
+**IDE**
+<img width="1458" height="995" alt="Screenshot 2025-10-23 232639" src="https://github.com/user-attachments/assets/42fa80b4-ecca-43c5-9738-534f4703595d" />
+
+
+
