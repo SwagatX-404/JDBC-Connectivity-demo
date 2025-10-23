@@ -1,1 +1,16 @@
-mysql-connector-j-9.5.0
+# MySQL connector
+mysql-connector-j-9.5.0/
+
+# IDE files
+.idea/
+*.iml
+
+# Compiled classes
+*.class
+
+# Dependency JARs (you might want to ignore these too)
+*.jar
+
+# System files
+.DS_Store
+Thumbs.db
